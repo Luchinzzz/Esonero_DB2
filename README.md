@@ -1,11 +1,11 @@
 # Esonero_DB2
 
-Arena Simulation project for System Simulation exam.
+Presentazione "DB2 v12 for z/OS" per primo esonero dell'esame di Information Security Auditing,Certification and digital forensics.
 
 ##  :pencil: Table of contents
 * [Description](#description)
-* [How to use](#how-to-use)
 * [Technologies](#technologies)
+* [Bibliography](#bibliography)
 * [License](#license)
 
 
@@ -17,15 +17,17 @@ The aim of the project is to simulate a real post office in order to analyze the
 
 The report contains all the results obtained during the simulation of the three models and the graphs that summarize the improvements found after applying the changes.
 
-## :man_technologist: How to use <a name="how-to-use"/>
-In order to use this project, you need to download Arena Simulation Software and open **.doe** files with it. 
-To view the simulation reports, you need to install [Crystal Reports](http://info.arenasimulation.com/blog/crystal-reports-in-16.1).
 
 ## :computer: Technologies <a name="technologies"/>
 Project is created with:
 * [Arena Simulation Software](https://www.rockwellautomation.com/it-it/products/software/arena-simulation.html)
 * Excel (for distribution validation)
 
+## :black_nib: Bibliography <a name="bibliography"/>
 
+For the A * star code I took inspiration from:
+*  F. Sancho Caparrini, (2018, 16 October). "A General A* Solver in NetLogo". [link](http://www.cs.us.es/~fsancho/?e=131)
+* "Models of the course Artificial Intelligence", [Github page](https://github.com/fsancho/IA)
+* 
 ## :balance_scale: License <a name="license"/>
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
