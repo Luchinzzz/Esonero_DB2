@@ -10,7 +10,7 @@ Presentazione "DB2 v12 for z/OS" per primo esonero dell'esame di Information Sec
 
 
 ## :pushpin: Description <a name="description"/>
-The aim of the project is to simulate a real post office in order to analyze the critical points and then apply the necessary changes to improve the experience for a customer. You can find the Arena project in **progetto_arena** folder that is divided in three different models:
+The aimp of the project is to simulate a real post office in order to analyze the critical points and then apply the necessary changes to improve the experience for a customer. You can find the Arena project in **progetto_arena** folder that is divided in three different models:
 * modello_base: model designed to apply changes in order to improve the experience at the post office;
 * sol_modello_base: first solution applied;
 * sol_modello_PASP: second solution where the queue follows an abstract discipline with priority without preemption (PASP).
