@@ -1,33 +1,38 @@
-# Esonero_DB2
+# :floppy_disk: Esonero_DB2_CC
 
-Presentazione "DB2 v12 for z/OS" per primo esonero dell'esame di Information Security Auditing,Certification and digital forensics.
+Presentazione "DB2 v12 for z/OS" per primo esonero dell'esame di Information Security Auditing,Certification and digital forensics sviluppata da :
+* Chiara Luchini
+* Matteo Baldassarrini
 
 ##  :pencil: Table of contents
 * [Description](#description)
-* [Technologies](#technologies)
 * [Bibliography](#bibliography)
 * [License](#license)
 
 
 ## :pushpin: Description <a name="description"/>
-The aimp of the project is to simulate a real post office in order to analyze the critical points and then apply the necessary changes to improve the experience for a customer. You can find the Arena project in **progetto_arena** folder that is divided in three different models:
-* modello_base: model designed to apply changes in order to improve the experience at the post office;
-* sol_modello_base: first solution applied;
-* sol_modello_PASP: second solution where the queue follows an abstract discipline with priority without preemption (PASP).
+In questa repository abbiamo riportato la presentazione del prodotto certificato "DB2 v12 for z/OS", contenente diverse informazioni significative prese dal Security Target, Certification Report e Protection Profile per i DBMS ,consultabili al seguente [link] (https://www.commoncriteriaportal.org/products/) categoria "Databases". 
 
-The report contains all the results obtained during the simulation of the three models and the graphs that summarize the improvements found after applying the changes.
+Questo report è suddiviso in diverse sezioni che sono state richieste espressamente dal professore:
+* Descrizione del TOE
+* Problemi di sicurezza
+* Obiettivi di sicurezza
+* Requisiti di sicurezza
 
-
-## :computer: Technologies <a name="technologies"/>
-Project is created with:
-* [Arena Simulation Software](https://www.rockwellautomation.com/it-it/products/software/arena-simulation.html)
-* Excel (for distribution validation)
 
 ## :black_nib: Bibliography <a name="bibliography"/>
 
-For the A * star code I took inspiration from:
-*  F. Sancho Caparrini, (2018, 16 October). "A General A* Solver in NetLogo". [link](http://www.cs.us.es/~fsancho/?e=131)
-* "Models of the course Artificial Intelligence", [Github page](https://github.com/fsancho/IA)
-* 
+Per la presentazione sono stati utilizzati i seguenti file:
+*  [Certification Report](https://www.commoncriteriaportal.org/files/epfiles/cr_db2v12_v1.0_en.pdf)
+*  [Security Target](https://www.commoncriteriaportal.org/files/epfiles/OracleDB12c%20EAL2%20ST%2012.pdf)
+*  [Base Protection Profile for Database Management Systems](https://www.commoncriteriaportal.org/files/ppfiles/pp0088b_pdf.pdf)
+
+
+Il design delle slide è stato creato da:
+* [PPTMON.com](http://pptmon.com/)
+
+Montserrat Font è stato scaricato da:
+* [Google Fonts](https://fonts.google.com/specimen/Montserrat)
+
 ## :balance_scale: License <a name="license"/>
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
